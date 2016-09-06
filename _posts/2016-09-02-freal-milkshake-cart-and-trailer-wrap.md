@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T21:18:12.565Z'
+datePublished: '2016-09-02T21:21:11.299Z'
 sourcePath: _posts/2016-09-02-freal-milkshake-cart-and-trailer-wrap.md
 author: []
 via: {}
-dateModified: '2016-09-02T21:18:12.191Z'
+dateModified: '2016-09-02T21:21:10.765Z'
 title: ''
 publisher: {}
 description: f’real Milkshake Cart and Trailer Wrap

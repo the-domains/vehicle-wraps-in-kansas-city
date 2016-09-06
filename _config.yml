@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Pickups
+    id: 18f938af-3a2e-40cb-87b5-2dc676b8f3dc
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c4fef3d-80a4-4c7b-888f-a734641fdcc2.png
 title: Vehicle Wraps by REV2

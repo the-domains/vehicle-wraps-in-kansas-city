@@ -1,23 +1,23 @@
 ---
+datePublished: '2016-09-02T21:23:12.100Z'
+sourcePath: _posts/2016-05-03-vehicle-wraps-in-kansas-city.md
 inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: BUS WRAP
-datePublished: '2016-05-03T01:58:16.223Z'
-dateModified: '2016-05-03T01:57:25.480Z'
-title: ''
-author: []
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-02T21:23:11.832Z'
+title: ''
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-03-vehicle-wraps-in-kansas-city.md
-published: true
+description: BUS WRAP
+inLanguage: null
+inNav: true
+via: {}
+starred: true
 url: vehicle-wraps-in-kansas-city/index.html
 _type: Article
 

@@ -1,28 +1,24 @@
 ---
-description: "THUMBS UP THURSDAY- MO'S ITALIAN SPOT FOOD TRUCK"
-datePublished: '2016-05-03T02:24:27.122Z'
-inNav: false
-inLanguage: null
-author: []
-hasPage: true
-authors: []
-title: ''
-publisher:
-  favicon: null
-  name: null
-  domain: null
-  url: null
-keywords: []
-dateModified: '2016-05-03T02:20:36.634Z'
-inFeed: true
-starred: false
+datePublished: '2016-09-02T21:22:43.947Z'
 sourcePath: _posts/2016-05-03-thumbs-up-thursday-mos-italian-spot-food-truck.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-02T21:22:43.564Z'
+title: ''
+publisher: {}
+description: THUMBS UP THURSDAY- MO'S ITALIAN SPOT FOOD TRUCK
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: thumbs-up-thursday-mos-italian-spot-food-truck/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822ff1ad-049f-4c6e-b623-a37dc2ae283e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dce08606a1ea1aef752e01ebe2ac741afc7bff70.jpg)
 
 THUMBS UP THURSDAY- MO'S ITALIAN SPOT FOOD TRUCK
 

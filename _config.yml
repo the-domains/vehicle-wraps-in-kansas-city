@@ -19,11 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/48ee4038-6b9a-4778-bbd1-169e57916ff1.png
 name: Vehicle Wraps in Kansas City
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c4fef3d-80a4-4c7b-888f-a734641fdcc2.png
 title: Vehicle Wraps by REV2
 purpose: []
